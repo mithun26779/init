@@ -6,6 +6,7 @@ import (
 )
 // abc
 // def
+// ddd
 
 func init() {
 
