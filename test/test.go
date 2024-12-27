@@ -5,7 +5,6 @@ import (
 
 )
 // abc
-// def
 
 
 func init() {
