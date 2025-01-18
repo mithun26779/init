@@ -5,7 +5,7 @@ import (
 
 )
 // abc
-// hhh
+// h
 
 
 func init() {
